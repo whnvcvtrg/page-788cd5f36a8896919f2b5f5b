@@ -1,0 +1,122 @@
+{
+  "version": 2,
+  "template_version": "d39ce472eeb3cc3f10e7",
+  "page_size": 20,
+  "site_id": "8695d112c60c8b8ff9eddd1e",
+  "owner": "whnvcvtrg",
+  "repo": "page-788cd5f36a8896919f2b5f5b",
+  "title": "花猫",
+  "mode": "repo",
+  "articles": [
+    {
+      "id": "788cd5f36a8896919f2b5f5b",
+      "a": "花猫",
+      "b": "2027官方最新地址导航",
+      "entity": "花猫",
+      "brand": "花猫",
+      "separator": "|",
+      "path": "index.html",
+      "hash": "2e30993207810e9afd6eac7c93a668a0a11a6d37e0d63037234f110071527e2d",
+      "content": {
+        "primary_entity": "花猫",
+        "keyword1": "花猫",
+        "keyword2": "2027官方最新地址导航",
+        "content": {
+          "AI_CLIENTS_INTRO": "按设备系统选择对应客户端，订阅配置完成后即可使用，不同平台的功能细节略不相同。",
+          "AI_CLIENTS_TITLE": "选择适合的设备客户端",
+          "AI_CLOSING_TEXT": "根据设备数量和流量需求选定套餐，完成订阅配置后即可启用花猫加速器。",
+          "AI_CLOSING_TITLE": "为你的设备选好花猫方案",
+          "AI_DESCRIPTION": "，花猫面向需要稳定海外网络加速的用户，提供基础版、旗舰版与团队版三档订阅，覆盖从 3 台设备到 20 台设备的同时在线需求。基础版每月 100GB 流量适合个人轻量使用，旗舰版每月 300GB 并带 IPLC 专线，适合流媒体与游戏场景，团队版每月 1000GB 可满足小型团队多设备共享。不同系统的客户端配置方式存在差异，按设备选择对应工具并导入订阅即可。",
+          "AI_FEATURES_INTRO": "从套餐档位、设备数量与订阅周期三个角度快速判断哪一档更适合你的日常使用。",
+          "AI_FEATURES_TITLE": "套餐与设备选择要点",
+          "AI_FEATURE_TEXT_1": "基础版 100GB 与旗舰版 300GB 适合个人，团队版 1000GB 适合多人共享，按峰值用量选择即可。",
+          "AI_FEATURE_TEXT_2": "3 台、5 台与 20 台的在线设备上限依次递增，先清点手机、电脑和平板数量再决定档位。",
+          "AI_FEATURE_TEXT_3": "月付适合短期尝试，年付方案折算后单价更低，长期使用可优先考虑按年订阅。",
+          "AI_FEATURE_TITLE_1": "按流量需求选套餐",
+          "AI_FEATURE_TITLE_2": "按设备数量选档位",
+          "AI_FEATURE_TITLE_3": "按月付或年付订阅",
+          "AI_GUIDE_INTRO": "先确认设备与流量需求，再对照套餐权益，最后按客户端文档完成订阅配置。",
+          "AI_GUIDE_TITLE": "三步完成花猫配置",
+          "AI_HERO_INTRO": "花猫提供基础版、旗舰版与团队版三档海外加速订阅，分别对应 100GB、300GB 与 1000GB 月流量，支持 3 台、5 台与 20 台设备同时在线。旗舰版带 IPLC 专线，团队版提供高带宽节点，用户可按设备数量和使用场景自由选择。",
+          "AI_HERO_SUBTITLE": "三档套餐适配不同设备数量",
+          "AI_HIGHLIGHT_1": "三档订阅覆盖不同设备规模",
+          "AI_HIGHLIGHT_2": "年付方案折算后更划算",
+          "AI_HIGHLIGHT_3": "多系统客户端可导入订阅",
+          "AI_PLANS_INTRO": "基础版每月 15 元含 100GB 流量与 3 台设备，旗舰版每月 35 元含 300GB 流量、5 台设备及 IPLC 专线，团队版每月 85 元含 1000GB 流量与 20 台设备。按年付费分别约需 150 元、350 元和 850 元。",
+          "AI_PLANS_TITLE": "对比花猫三档订阅",
+          "AI_STEP_TEXT_1": "确认常用的设备数量与每月流量消耗，在基础版、旗舰版和团队版中锁定目标档位。",
+          "AI_STEP_TEXT_2": "查看所选套餐的设备上限、流量额度与节点类型，核对是否满足流媒体或游戏加速需求。",
+          "AI_STEP_TEXT_3": "在对应系统的客户端中导入订阅信息，按客户端文档完成节点选择与连接设置。",
+          "AI_STEP_TITLE_1": "确认使用需求",
+          "AI_STEP_TITLE_2": "核对套餐适配",
+          "AI_STEP_TITLE_3": "配置客户端订阅",
+          "AI_VISUAL_TITLE": "花猫海外加速订阅",
+          "AI_FAQ_ANSWER_1": "基础版每月 100GB、支持 3 台设备；旗舰版每月 300GB、支持 5 台设备并含 IPLC 专线；团队版每月 1000GB、支持 20 台设备与定制路由。按人数和流量选即可。",
+          "AI_FAQ_ANSWER_2": "基础版 3 台，旗舰版 5 台，团队版 20 台。以同时在线设备数为准，选择时预留余量。",
+          "AI_FAQ_ANSWER_3": "年付更划算，基础版 ¥150/年，旗舰版 ¥350/年，团队版 ¥850/年，相当于按月付费的优惠价。",
+          "AI_FAQ_ANSWER_4": "先确认设备系统，再下载对应订阅客户端，在客户端内粘贴订阅链接即可完成配置，遇到问题可参考客户端文档。",
+          "AI_FAQ_ANSWER_5": "旗舰版含 IPLC 专线游戏加速优化，团队版提供 VIP 专属高带宽节点，两款都适合对延迟敏感的场景。",
+          "AI_FAQ_INTRO": "订阅导入、设备限制与付费周期。",
+          "AI_FAQ_QUESTION_1": "花猫怎么选套餐？",
+          "AI_FAQ_QUESTION_2": "一台订阅可以几台设备同时用？",
+          "AI_FAQ_QUESTION_3": "月付和年付价格差多少？",
+          "AI_FAQ_QUESTION_4": "新设备如何导入订阅？",
+          "AI_FAQ_QUESTION_5": "旗舰版和团队版哪个适合游戏？",
+          "AI_FAQ_TITLE": "常见问题"
+        },
+        "plans": [
+          {
+            "name": "基础版",
+            "price": "¥15/月",
+            "annual_price": "按年付仅需 ¥150/年",
+            "features": [
+              "每月 100GB 极速流量",
+              "支持 3 台设备同时在线",
+              "解锁基础流媒体",
+              "普通线路节点池"
+            ]
+          },
+          {
+            "name": "旗舰版",
+            "price": "¥35/月",
+            "annual_price": "按年付仅需 ¥350/年",
+            "featured": true,
+            "features": [
+              "每月 300GB 极速流量",
+              "支持 5 台设备同时在线",
+              "全节点原生流媒体解锁",
+              "IPLC 专线游戏加速优化",
+              "7x24 优先工单支持"
+            ]
+          },
+          {
+            "name": "团队版",
+            "price": "¥85/月",
+            "annual_price": "按年付仅需 ¥850/年",
+            "features": [
+              "每月 1000GB 极速流量",
+              "支持 20 台设备同时在线",
+              "VIP 专属高带宽节点",
+              "支持企业定制路由",
+              "专属客户经理服务"
+            ]
+          }
+        ],
+        "clients": []
+      }
+    }
+  ],
+  "domain": {
+    "apex": "nanjingai.cn",
+    "host": "nanjingai.cn"
+  },
+  "file_hashes": {
+    "index.html": "d9ea4cf0b3c8b84e0699a51e702b2596f32f8ee673991264b1752d7dce006b0b",
+    "sitemap.xml": "41cfef82e01fead2c244c758df4510d5b9682a3240a232fbae283c3571c8d5e1",
+    ".nojekyll": "12ae32cb1ec02d01eda3581b127c1fee3b0dc53572ed6baf239721a03d82e126",
+    "CNAME": "e45dcb5f16804e91e22ca36cc6c8227024b2d730f650a522fc49a0a3a4a1c64c",
+    "robots.txt": "45f688ed00998fea3d7e237335a4bff0595e0cffb1b83089a93d6c68752abe22",
+    "f40c891d581a26d312a495bf96f1c9c7.txt": "556cfeae0cae1607456be479251d23d669ff48ea095f54d78ce14629b524f5bc"
+  },
+  "revision": "da28cdfabfd87e219f170bb84c815a66406f6e75b59fd30b5e5c29cc417c72ed"
+}
